@@ -8,8 +8,6 @@ updates:
     commit-message:
       prefix: "chore"
       include: "scope"
-    reviewers:
-      - "devops-team"
     assignees:
       - "devops-team"
     open-pull-requests-limit: 5
